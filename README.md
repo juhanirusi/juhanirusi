@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [ryhom.com](ryhom.com)
 
-- 💬 Ask me about **Unity C#, HTML, CSS, Python**
+- 💬 Ask me about **Unity, C#, HTML, CSS, Python**
 
 - 📫 How to reach me **juhanirusi@yahoo.com**
 

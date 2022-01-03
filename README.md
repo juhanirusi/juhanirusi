@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Unity & C#**
 
-- 📝 I regularly write articles on **[ryhom.com](https://ryhom.com)**
+- 📝 I regularly write articles on **[Ryhom](https://ryhom.com)**
 
 - 💬 Ask me about **Unity, C#, HTML, CSS, Python**
 
-- 📫 How to reach me **juhanirusi@yahoo.com**
+- 📫 How to reach me **juhanirusi@yahoo.com** or **[LinkedIn](https://linkedin.com/in/juhanirusi)**
 
-- ⚡ Fun fact **Before studying programming, I worked at the construction industry.**
+- ⚡ Fun fact **Before studying programming, I worked in the construction industry as an excavator operator.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

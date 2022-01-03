@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unity & C#**
 
-- 📝 I regularly write articles on [ryhom.com](https://ryhom.com)
+- 📝 I regularly write articles on **[ryhom.com](https://ryhom.com)**
 
 - 💬 Ask me about **Unity, C#, HTML, CSS, Python**
 

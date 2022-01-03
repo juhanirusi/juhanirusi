@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **juhanirusi@yahoo.com** or **[LinkedIn](https://linkedin.com/in/juhanirusi)**
 
-- ⚡ Fun fact **Before studying programming, I worked in the construction industry as an excavator operator.**
+- ⚡ Fun fact **Before studying programming, I worked in the construction industry as an excavator operator.** 👷
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

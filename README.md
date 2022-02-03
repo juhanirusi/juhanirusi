@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juhani</h1>
 <h3 align="center">Just a guy from Finland with a curious mind...</h3>
 
-- 🔭 I’m currently working on **a "Space Shooter" game on Unity**
+- 🔭 I’m currently working on **a web development project about chickens**
 
-- 🌱 I’m currently learning **Unity & C#**
+- 🌱 I’m currently learning **web development**
 
 - 📝 I regularly write articles on **[Ryhom](https://ryhom.com)**
 

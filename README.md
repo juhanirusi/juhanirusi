@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a web development project about chickens**
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **Django & web development**
 
 - 📝 I regularly write articles on **[Ryhom](https://ryhom.com)**
 

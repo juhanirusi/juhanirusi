@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **Before studying programming, I worked in the construction industry as an excavator operator.** 👷
 
+- 📚 I also like to read books --> **[Goodreads](https://www.goodreads.com/user/show/89284040-juhani)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juhanirusi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juhanirusi" height="30" width="40" /></a>

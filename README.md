@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Before studying programming, I worked in the construction industry as an excavator operator.** 👷
 
-- 📚 I also like to read books **[Goodreads](https://www.goodreads.com/user/show/89284040-juhani)**
+- 📚 I also like to read books, so check me out on **[Goodreads](https://www.goodreads.com/user/show/89284040-juhani)**. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

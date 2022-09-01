@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an inventory management / lending web development project for a school.**
 
-- 🌱 I’m currently learning **Django & web development**
+- 🌱 I’m currently learning **Android app development**
 
 - 📝 I regularly write articles on **[Ryhom](https://ryhom.com)**
 

@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Android app development**
 
-- 📝 I regularly write articles on **[Ryhom](https://ryhom.com)**
-
 - 💬 Ask me about **HTML, CSS, Python, Django, Android Studio**
 
 - 📫 How to reach me **juhanirusi@yahoo.com** or **[LinkedIn](https://linkedin.com/in/juhanirusi)**

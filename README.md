@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juhani</h1>
-<h3 align="center">Just a guy from :finland: Finland :finland: with a curious mind...</h3>
+<h3 align="center">Just a guy from 🇫🇮 Finland 🇫🇮 with a curious mind...</h3>
 
 - 🔭 I’m currently working on **an inventory management / lending web development project for a school.**
 

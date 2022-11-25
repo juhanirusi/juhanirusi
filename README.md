@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juhani</h1>
 <h3 align="center">Just a guy from Finland with a curious mind and an interest towards mobile development</h3>
 
-- 🔭 I’m currently working on **an inventory management / lending web development project for a school.**
-
 - 🌱 I’m currently learning **Android app development**
 
-- 💬 Ask me about **HTML, CSS, Python, Django, Android Studio**
+- 💬 Ask me about **HTML, CSS, Python, Django, Kotlin, Android Studio**
 
 - 📫 How to reach me **juhanirusi@yahoo.com**
 

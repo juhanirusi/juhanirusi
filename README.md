@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Android app development**
 
-- 💬 Ask me about **HTML, CSS, Python, Django, Kotlin, Android Studio**
+- 💬 Ask me about **Python, Django, Kotlin, Android Studio**
 
 - 📫 How to reach me **juhanirusi@yahoo.com**
 

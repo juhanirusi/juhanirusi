@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **juhanirusi@yahoo.com**
 
-- 📄 Know about my work experience **<a href="https://www.linkedin.com/in/juhanirusi/" target="_blank">From my Linkedin profile</a>**
-
 - ⚡ Fun fact **Before studying programming, I worked in the construction industry as an excavator operator. 👷**
 
 <h3 align="left">Connect with me:</h3>

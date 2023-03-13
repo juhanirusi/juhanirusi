@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juhani</h1>
 <h3 align="center">Just a guy from Finland with a curious mind and an interest towards mobile development</h3>
 
-- 🌱 I’m currently learning **Android app development**
+- 🌱 I’m currently learning **Android app development & AWS**
 
 - 💬 Ask me about **Python, Django, Kotlin, Android Studio**
 

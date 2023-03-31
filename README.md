@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Juhani</h1>
 <h3 align="center">Just a guy from Finland with a curious mind and an interest towards programming</h3>
 
-- 🌱 I’m currently learning **React & AWS**
+- 🌱 I’m currently learning - **React & AWS**
 
-- 💬 Ask me about **Django, Python**
+- 💬 Ask me about - **Django, Python**
 
-- 📫 How to reach me **juhanirusi@yahoo.com**
+- 📫 How to reach me - **juhanirusi@yahoo.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/juhanirusi](https://www.linkedin.com/in/juhanirusi)
+- 📄 Know about my experiences - [https://www.linkedin.com/in/juhanirusi](https://www.linkedin.com/in/juhanirusi)
 
-- ⚡ Fun fact **Before my software development career, I worked in the construction industry as an excavator operator. 👷**
+- ⚡ Fun fact - **Before my software development career, I worked in the construction industry as an excavator operator. 👷**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

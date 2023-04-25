@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juhani</h1>
 <h3 align="center">Just a guy from Finland with a curious mind and an interest towards programming</h3>
 
-- 🌱 I’m currently learning - **React, GraphQL, AWS and Data Science**
+- 🌱 I’m currently learning - **React, GraphQL, and Data Science**
 
 - 💬 Ask me about - **Django, Python**
 

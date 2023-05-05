@@ -22,6 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juhanirusi&show_icons=true&locale=en&layout=compact" alt="juhanirusi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juhanirusi&show_icons=true&locale=en" alt="juhanirusi" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juhanirusi&" alt="juhanirusi" /></p>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juhani</h1>
-<h3 align="center">Just a guy from Finland with an interest towards programming & data</h3>
+<h3 align="center">Just a guy from Finland with an interest towards programming, data, ML & AI</h3>
 
 - 🌱 I’m currently learning **Data Science**
 

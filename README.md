@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ASP.NET Core**
 
-- 💬 Ask me about **Django, Python**
+- 💬 Ask me about **Django, Python, Pandas**
 
 - 📫 How to reach me **juhanirusi@yahoo.com**
 

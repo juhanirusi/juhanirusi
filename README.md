@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning **ASP.NET Core**</p>
+<p align="left">🌱 I’m currently learning ASP.NET Core</p>
 
 ###
 

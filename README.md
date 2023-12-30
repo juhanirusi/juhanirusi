@@ -10,15 +10,15 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning <b>ASP.NET Core</b></p>
+<p align="left">🌱 I’m currently learning: <b>ASP.NET Core</b></p>
 
 ###
 
-<p align="left">💬 Ask me about <b>Django, Python, Pandas</b></p>
+<p align="left">💬 Ask me about: <b>Django, Python, Pandas</b></p>
 
 ###
 
-<p align="left">⚡ Fun fact Before my software development career, I worked in the construction industry as an excavator operator. 👷</p>
+<p align="left">⚡ Fun fact: <b>Before my software development career, I worked in the construction industry as an excavator operator. 👷</b></p>
 
 ###
 

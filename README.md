@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning ASP.NET Core</p>
+<p align="left">🌱 I’m currently learning <b>ASP.NET Core</b></p>
 
 ###
 
-<p align="left">💬 Ask me about Django, Python, Pandas</p>
+<p align="left">💬 Ask me about <b>Django, Python, Pandas</b>b></p>
 
 ###
 

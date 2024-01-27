@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning: <b>ASP.NET Core</b></p>
+<p align="left">🌱 I’m currently learning: <b>Java</b></p>
 
 ###
 

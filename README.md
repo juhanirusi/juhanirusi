@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">💬 Ask me about: <b>Django, Python, Pandas</b></p>
+<p align="left">💬 Ask me about: <b>Django, Python, Pandas, Power BI</b></p>
 
 ###
 

@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning: <b>Java</b></p>
+<p align="left">🌱 I’m currently learning: <b>Java & Spring</b></p>
 
 ###
 

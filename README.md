@@ -10,15 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning: <b>Java & Spring</b></p>
-
-###
-
-<p align="left">💬 Ask me about: <b>Django, Python, Pandas, Power BI</b></p>
-
-###
-
-<p align="left">⚡ Fun fact: <b>Before my software development career, I worked in the construction industry as an excavator operator. 👷</b></p>
+<p align="left">🌱 I’m currently learning: Java & Spring<br><br>💬 Ask me about: Django, Python, Pandas, Power BI<br><br>⚡ Fun fact: Before my software development career, I worked in the construction industry as an excavator operator. 👷</p>
 
 ###
 
@@ -27,9 +19,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/juhanirusi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="49" alt="linkedin logo"  />
 </div>
 
 ###
@@ -45,11 +35,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
@@ -61,3 +55,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###

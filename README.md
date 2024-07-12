@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning: Java & Spring<br><br>💬 Ask me about: Django, Python, Pandas, Power BI<br><br>⚡ Fun fact: Before my software development career, I worked in the construction industry as an excavator operator. 👷</p>
+<p align="left">
+  <strong>🌱 I'm currently learning:</strong> Java & Spring
+<br><br>
+  <strong>💬 Ask me about:</strong>strong> Django, Python, Pandas, Power BI
+<br><br>
+  <strong>⚡ Fun fact:</strong>strong> Before my software development career, I worked in the construction industry as an excavator operator. 👷
+</p>
 
 ###
 

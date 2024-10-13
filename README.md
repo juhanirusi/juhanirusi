@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center"><em>Just a guy from Finland with an interest towards programming, data, and software</em></p>
+<p align="center"><em>Just a guy from Finland with an interest towards programming, data, and machine learning</em></p>
 
 ###
 

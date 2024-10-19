@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-  <strong>🌱 I'm currently learning:</strong> Java & Spring
+  <strong>🌱 I'm currently learning:</strong> Java & Spring Boot
 <br><br>
   <strong>💬 Ask me about:</strong> Django, Python, Pandas, Power BI
 <br><br>

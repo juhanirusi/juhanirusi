@@ -13,7 +13,7 @@
 <p align="left">
   <strong>🌱 I'm currently learning:</strong> Time Series Forecasting
 <br><br>
-  <strong>💬 Ask me about:</strong> Django, Python, Pandas, Power BI
+  <strong>💬 Ask me about:</strong> Python, Pandas, Django, Power BI
 <br><br>
   <strong>⚡ Fun fact:</strong> Before my software development career, I worked in the construction industry as an excavator operator. 👷
 </p>

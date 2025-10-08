@@ -11,9 +11,9 @@
 ###
 
 <p align="left">
-  <strong>🌱 I'm currently learning:</strong> Time Series Forecasting
+  <strong>🌱 I'm currently learning:</strong> Time Series Forecasting, Linux
 <br><br>
-  <strong>💬 Ask me about:</strong> Python, Pandas, Django, Power BI
+  <strong>💬 Ask me about:</strong> Python, Pandas, Django, Power BI, Java, Spring Boot, Azure
 <br><br>
   <strong>⚡ Fun fact:</strong> Before my software development career, I worked in the construction industry as an excavator operator. 👷
 </p>
